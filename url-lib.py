@@ -1,7 +1,7 @@
 import urllib.request
 
 """
-Access URL
+Access URL and download files from the Web
 """
 
 print("Downloading html code from python.org ...")
